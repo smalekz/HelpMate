@@ -1,1 +1,3 @@
-
+# Block-chain 
+Our system is created on a blockchain-based community for guaranteeing the security of delivery based transactions and building trust among peers. The security of the delivery is backed by the structure of the block-chain community which is based on **encrypted hashed chained blocks**. All delivery **smart contracts** are placed in this block-chain. 
+Trust is also another added value of blockchain, since our delivery **smart contracts** are placed inside our block-chain.  This Block-chain is defined as decentralized for both online and offline agent systems of users. Meaning that each user is a **decentralized node**.
