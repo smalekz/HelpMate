@@ -1,1 +1,8 @@
-
+#### Decentralized Agents: 
+Our system also contains a decentralized AI, which is based on one core agent and other multiple agents. The combination of all these agents makes the brain of our artificial intelligence.
+This means that not only the core agent is intelligent but also decentralized agents are individually trained to be intelligent and their intelligence is evolving over time, based on core updates from our servers. 
+One of the many tasks that the system can perform is to recommend to our users what is the **collective best** for the whole community, making it an inclusive system.
+This inclusivity means that the system priorities the collective best rather than the individual benefit. In order to identify what is best for the whole community, the decision is not only made by our core agent but also elicited from feature vectors that are collected from the intelligence in users' systems. 
+The mentioned **feature vector** is user's behavior which is gathered by the behavior analysis of a local intelligent agent. This feature vector will be used to recommend the user what is best for the whole community. For example, based on my searches and upvotes as a user, my agent can create a feature vector that shows to which group of users I belong (for example the group who believes that masks can prevent the transmission of the Virus-simply clustering). 
+Then the core agent will recommend me where masks are available for me to buy while already filtering high-risk options in my search results, so I wouldn't contribute to the worsening of the problem. 
+In this case, my actions would also help the whole community as the main priority, while providing the most optimum response to my needs. 
