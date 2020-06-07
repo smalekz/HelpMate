@@ -9,22 +9,7 @@ Types of Sentiment Analysis
 
 Sentiment analysis models focus on polarity (positive, negative, neutral) but also on feelings and emotions (angry, happy, sad, etc), and even on intentions (e.g. interested v. not interested).
 
-Here are some of the most popular types of sentiment analysis:
 
-Fine-grained Sentiment Analysis
-
-If polarity precision is important to your business, you might consider expanding your polarity categories to include:
-
-Very positive
-Positive
-Neutral
-Negative
-Very negative
-This is usually referred to as fine-grained sentiment analysis, and could be used to interpret 5-star ratings in a review, for example:
-
-Very Positive = 5 stars
-Very Negative = 1 star
-Emotion detection
 
 
 
