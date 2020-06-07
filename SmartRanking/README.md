@@ -1,1 +1,3 @@
-
+# Smart Ranking (& smart marketing)
+In order to best use the gamification themes, we are aiming to put incentives inside various priorities of our system, meaning that each user's activity is being stored to help us rank them according to best behaviours. 
+Our system learns over time with pattern matching which activities and behaviours by users are **more valuable** and gives higher priority. In the beginning, our rewarding/priority maker system is based on a few activities by users such as: **tagging a location as a distribution point, upvoting or downvoting for articles and locations, introducing new members to join the community, delivering an item, and hight review by other users.**
