@@ -1,4 +1,4 @@
-# SmartCrisisDetection (Recommendation)
+# Smart Crisis Detection (Recommendation)
 Our system also contains a decentralized AI, which is based on one core agent and other multiple agents. The combination of all these agents makes the brain of our artificial intelligence.
 This means that not only the core agent is intelligent but also decentralized agents are individually trained to be intelligent and their intelligence is evolving over time, based on core updates from our servers. 
 One of the many tasks that the system can perform is to recommend to our users what is the **collective best** for the whole community, making it an inclusive system.
