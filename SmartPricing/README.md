@@ -1,1 +1,3 @@
-
+# Smart Pricing
+One of the most complex problems in dealing with Peer to Peer marketplace systems is pricing. While the system satisfies the **service provider** (Delivery person), it also needs to satisfy the **service receiver** (The peer who receives the order). To deal with this problem our system uses a **learning-based model** that is constantly trained and fine-tuned. When demand falls, our reinforcement deep learning model gets a negative point for not being able to match the two peers and find a suitable price for each to accept the deal (submit or accept the order). This situation analysis is based on several factors, from weather conditions to public holidays, which will need a deep model.
+In conclusion, finding the best price model is enabled by giving positive and negative points to reinforce the best pricing model.
