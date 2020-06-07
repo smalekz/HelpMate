@@ -1,0 +1,2 @@
+# Content Understanding
+While entries in our database are from our users and from different types of people (in a hurry, low level of education, false entries, etc.) there would be potential human errors in the system for users to find what they look for. Since our system is based on community trust, our **intelligent content-understanding-model** tries to make sense of users' inputs, such as title entries, description entries, reviews, etc. 
