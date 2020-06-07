@@ -1,2 +1,2 @@
 # Speech Synthesis
-We have use google speech to text api for sending streaming request, Performing streaming speech recognition on an audio stream to help out users speak to us and get direct answers. This will help old or uneducated people to communicate with the platform.
+We have use google text to speech api for sending streaming request, Performing streaming speech synthesis on a text stream to help out users hear from us and get direct answers. This will help old or uneducated people to communicate with the platform.
